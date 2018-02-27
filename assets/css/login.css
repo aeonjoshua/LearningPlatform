@@ -1,0 +1,130 @@
+.login-container {
+  margin: 10px 0px 50px 0px;
+}
+
+.lrp_login .lrp_title {
+  text-align: center;
+  font: 20px 'Roboto', Arial, Helvetica, sans-serif;
+  margin-bottom: 15px;
+}
+
+.lrp_socialButtons a {
+	color: white;
+	opacity:0.9;
+  font: 16px 'Roboto', Arial, Helvetica, sans-serif;
+  line-height: 16px;
+  position: relative;
+  width: 70%;
+  left: 15%;
+  margin-top: 5px;
+  border-radius: 25px;
+}
+
+.lrp_login .lrp_socialButtons a:hover {
+  color: white;
+	opacity:1;
+}
+
+.lrp_login .lrp_socialButtons .lrp_btn-facebook {
+  background: #3b5998;
+}
+
+.lrp_login .lrp_socialButtons .lrp_btn-google {
+  background: #c32f10;
+}
+
+.lrp_login .lrp_loginOr {
+	position: relative;
+	font-size: 1.5em;
+	color: #aaa;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+.lrp_hrOr {
+  width: 69%;
+}
+.lrp_login .lrp_loginOr .lrp_hrOr {
+	background-color: #cdcdcd;
+	height: 1px;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+
+}
+.lrp_login .lrp_loginOr .lrp_spanOr {
+	display: block;
+	position: absolute;
+	left: 50%;
+	top: -0.6em;
+	margin-left: -1.5em;
+	background-color: white;
+	width: 3em;
+	text-align: center;
+  font: 20px 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+.lrp_loginForm {
+  width: 70%;
+  margin-left: 15%;
+}
+
+.lrp_login .lrp_loginForm {
+  font: 18px 'Roboto', Arial, Helvetica, sans-serif;
+
+}
+
+.input-group {
+  margin: 5px 0px 5px 0px;
+
+}
+
+.input-group-addon {
+  width: 60px;
+  padding-left: 25px;
+}
+
+.form-control:focus {
+  border-color: #003366;
+}
+
+
+.lrp_button{
+  font: 16px 'Roboto', Arial, Helvetica, sans-serif;
+  border-radius: 25px;
+  line-height: 20px;
+  width: 69%;
+}
+
+.lrp_button:hover {
+  border-color: #003366;
+  background-color: #003366;
+  cursor: pointer;
+  color: #fff ;
+}
+
+.checkbox .lrp_forgotPwd{
+  font: 16px 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+.wor {
+  margin-top: 20px;
+}
+
+.lrp_forgotPwd:hover {
+  color: #003366 ;
+}
+
+.dhaa .lrp_signup {
+  font: 16px 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+.lrp_signup:hover {
+  color: #003366 ;
+}
+
+.lrp_row1 {
+  width: 109%;
+  margin-left: 7%;
+}

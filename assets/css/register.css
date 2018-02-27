@@ -1,0 +1,22 @@
+.register-container {
+  margin: 5px 0px 20px 0px;
+}
+
+.register-text {
+  font: 15px 'Roboto', Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+.register-button {
+  border-radius: 25px;
+  font: 18px 'Roboto', Arial, Helvetica, sans-serif;
+  width: 250px;
+  line-height: 20px;
+}
+
+.register-button:hover{
+  border-color: #003366;
+  background-color: #003366;
+  cursor: pointer;
+  color: #fff ;
+}

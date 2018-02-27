@@ -1,0 +1,51 @@
+/*================================================*/
+/* Header */
+/*================================================*/
+.breadcrumb-item {
+  cursor: pointer;
+  font: 11px 'Roboto', Arial, Helvetica, sans-serif;
+  color: #767676;
+  text-transform: uppercase;
+  padding: 0px;
+}
+
+.breadcrumb-text {
+  color: #767676;
+}
+
+.breadcrumb-text:hover {
+  color: #bd2031 ;
+}
+
+img {
+  max-width: 120px;
+  margin: 0px;
+}
+
+.header-text {
+  color: #222;
+  font: 22px 'Roboto', Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+.header-text:hover {
+  color: #bd2031 ;
+  text-decoration: underline ;
+}
+
+
+
+
+
+/*================================================*/
+/* Footer */
+/*================================================*/
+.main-footer {
+  background: #222;
+  padding-top: 10px;
+}
+
+.footer-text {
+  font-size: 14px;
+  color: #767676;
+}
